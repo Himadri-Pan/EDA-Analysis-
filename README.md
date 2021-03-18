@@ -1,4 +1,4 @@
-# EDA on Global Terrorism dataset
+# EDA on Global Terrorism dataset (1970 - 2017)
 I have done an exploratory data analysis on Global Terrorism dataset using Tableau. To serve this purpose,I have performed initial data cleaning on given dataset (removed unwanted columns with huge missing values); exported cleaned data into Tableau and prepared multiple visualization based on diffrent aspect of Terrorism.
 
 Graphical Explanation:
