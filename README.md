@@ -9,4 +9,4 @@ Graphical Explanation:
 5) Lastly, packed bubble chart is to visualize yearwise Top 10 affected country by terrorism.
 
 Pie chart, Area chart and bar chart can be varied by using 'Country txt' dropdown wheras bubble chart can be changed through 'year' variation.
-https://public.tableau.com/profile/himadri.pan8308#!/vizhome/GlobalTerrorismDataset/Dashboard1
+Click here for Visualization: - https://public.tableau.com/profile/himadri.pan8308#!/vizhome/GlobalTerrorismDataset/Dashboard1
